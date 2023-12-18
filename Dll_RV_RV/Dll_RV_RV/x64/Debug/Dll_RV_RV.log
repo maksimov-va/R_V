@@ -1,0 +1,50 @@
+﻿  pch.cpp
+  dllmain.cpp
+  par_bool_read_only_t.cpp
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_bool_read_only_t.cpp(205,153): warning C4273: create_par_bool_read_only: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_bool_read_only_t.h(57,57): message : см. предыдущее определение "create_par_bool_read_only"
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_bool_read_only_t.cpp(208,70): warning C4273: destroy_par_bool_read_only: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_bool_read_only_t.h(63,39): message : см. предыдущее определение "destroy_par_bool_read_only"
+  par_bool_t.cpp
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_bool_t.cpp(216,203): warning C4273: create_par_bool: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_bool_t.h(66,47): message : см. предыдущее определение "create_par_bool"
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_bool_t.cpp(219,50): warning C4273: destroy_par_bool: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_bool_t.h(72,39): message : см. предыдущее определение "destroy_par_bool"
+  par_double_read_only_t.cpp
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_double_read_only_t.cpp(248,228): warning C4273: create_par_double_read_only: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_double_read_only_t.h(79,59): message : см. предыдущее определение "create_par_double_read_only"
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_double_read_only_t.cpp(252,74): warning C4273: destroy_par_double_read_only: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_double_read_only_t.h(85,39): message : см. предыдущее определение "destroy_par_double_read_only"
+  par_double_t.cpp
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_double_t.cpp(248,246): warning C4273: create_par_double: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_double_t.h(81,49): message : см. предыдущее определение "create_par_double"
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_double_t.cpp(251,54): warning C4273: destroy_par_double: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_double_t.h(87,39): message : см. предыдущее определение "destroy_par_double"
+  par_empty_t.cpp
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_empty_t.cpp(127,98): warning C4273: create_par_empty: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_empty_t.h(36,48): message : см. предыдущее определение "create_par_empty"
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_empty_t.cpp(130,42): warning C4273: destroy_par_empty: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_empty_t.h(42,39): message : см. предыдущее определение "destroy_par_empty"
+  par_enum_read_only_t.cpp
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_enum_read_only_t.cpp(213,191): warning C4273: create_par_enum_read_only: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_enum_read_only_t.h(71,57): message : см. предыдущее определение "create_par_enum_read_only"
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_enum_read_only_t.cpp(216,70): warning C4273: destroy_par_enum_read_only: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_enum_read_only_t.h(77,39): message : см. предыдущее определение "destroy_par_enum_read_only"
+  par_enum_t.cpp
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_enum_t.cpp(213,209): warning C4273: create_par_enum: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_enum_t.h(71,47): message : см. предыдущее определение "create_par_enum"
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_enum_t.cpp(216,50): warning C4273: destroy_par_enum: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_enum_t.h(77,39): message : см. предыдущее определение "destroy_par_enum"
+  par_list_t.cpp
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_list_t.cpp(210,86): warning C4273: create_par_list: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_list_t.h(50,47): message : см. предыдущее определение "create_par_list"
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_list_t.cpp(214,50): warning C4273: destroy_par_list: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_list_t.h(56,39): message : см. предыдущее определение "destroy_par_list"
+  par_title_t.cpp
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_title_t.cpp(158,78): warning C4273: create_par_title: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_title_t.h(30,48): message : см. предыдущее определение "create_par_title"
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_title_t.cpp(162,52): warning C4273: destroy_par_title: несовместимое связывание dll
+C:\Практика\Dll_RV_RV\Dll_RV_RV\par_title_t.h(36,39): message : см. предыдущее определение "destroy_par_title"
+  Создание кода...
+     Создается библиотека C:\Практика\Dll_RV_RV\x64\Debug\Dll_RV_RV.lib и объект C:\Практика\Dll_RV_RV\x64\Debug\Dll_RV_RV.exp
+  Dll_RV_RV.vcxproj -> C:\Практика\Dll_RV_RV\x64\Debug\Dll_RV_RV.dll

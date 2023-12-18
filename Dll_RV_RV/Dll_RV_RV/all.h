@@ -1,0 +1,11 @@
+#pragma once
+#include"par_title_t.h"
+#include"par_list_t.h"
+#include"par_enum_t.h"
+#include"par_enum_read_only_t.h"
+#include"par_empty_t.h"
+#include"par_double_t.h"
+#include"par_double_read_only_t.h"
+#include"par_bool_t.h"
+#include"par_bool_read_only_t.h"
+#include"par_t.h"
